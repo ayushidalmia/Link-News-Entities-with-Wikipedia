@@ -1,7 +1,7 @@
 Link-News-Entities-with-Wikipedia
 =================================
 
-This repository consists of the project done as part of the course Statistical Methods in AI- Monsoon 2013. The course was instructed by [Dr. Manish Gupta](http://research.microsoft.com/en-us/people/gmanish/)
+This repository consists of the project done as part of the course Web Mining- Monsoon 2013. The course was instructed by [Dr. Manish Gupta](http://research.microsoft.com/en-us/people/gmanish/)
 
 A detailed report is available <a href="https://drive.google.com/file/d/0B87x7EOOS4ztVUYtbVQ1WG9OdVE/edit?usp=sharing",target="blank">here</a>
 
